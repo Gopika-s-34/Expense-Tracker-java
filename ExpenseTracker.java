@@ -1,22 +1,3 @@
-/**
- * Expense Tracker
- * Author: Your Name
- * Date: 2025-08-11
- *
- * A simple Java console application to track income and expenses.
- * Features:
- * - Add transactions (income/expense)
- * - View all transactions
- * - View monthly summary
- * - Export transactions to CSV
- *
- * Skills Demonstrated:
- * - Java OOP principles
- * - File handling (read/write)
- * - Date handling
- * - Clean code practices
- */
-
 import java.io.*;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
