@@ -1,4 +1,4 @@
-# Expense Tracker CLI
+# Expense Tracker using Java
 
 A simple and beginner-friendly **Command Line Interface (CLI)** application to manage personal income and expenses.  
 It allows you to add transactions, view them, check monthly summaries, and export data to a CSV file.
